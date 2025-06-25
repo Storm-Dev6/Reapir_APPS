@@ -62,5 +62,5 @@ Verification 8% complete.
 
 ### Developer
 
-Created by: **GAMESTORMZONE**  
+Created by: **STORM**  
 📧 Email: info@stormfilms.xyz
